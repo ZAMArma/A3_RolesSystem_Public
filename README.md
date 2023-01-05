@@ -123,6 +123,7 @@ copyToClipboard str (cursorObject call BIS_fnc_getVirtualMagazineCargo);
 ## Function Information
 
 **MAZ_RS_fnc_createNewDefaultSideUniform**
+
 The purpose of this function is primarily to reduce the workload on the config creator.<br/>These defaults can be ignored in individual roles.<br/>Calling this creates the following default items for the faction on the specified map:
 - Uniforms
 - Vests
